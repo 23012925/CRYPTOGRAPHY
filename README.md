@@ -1,4 +1,8 @@
 # CRYPTOGRAPHY
+
+### Name: JANARTHANAN K
+### Reg. No.: 212223040072
+
 HILL CIPHER
 EX. NO: 1(C) AIM:
  
