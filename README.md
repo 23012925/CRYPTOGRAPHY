@@ -4,12 +4,13 @@
 ### Reg. No.: 212223040072
 
 HILL CIPHER
-EX. NO: 1(C) AIM:
- 
+EX. NO: 1(C) 
 
-IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+## IMPLEMENTATION OF HILL CIPHER
+
+## AIM:
+
+To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
